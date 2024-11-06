@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/bR3PF6J/IMG-20241011-WA0278-1.jpg" alt="IMG-20241011-WA0278-1" border="0"></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐇𝐀𝐂𝐊+𝐙𝐎𝐍𝐄!)](https://git.io/typing-svg)
+
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐌𝐌𝐘+𝐇𝐄𝐍𝐙)](https://git.io/typing-svg)
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
